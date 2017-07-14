@@ -10,7 +10,7 @@ During this hands on lab at SQL Saturday Pre-day Manchester (July 2017) we will 
 
 ## Getting Started
 
-Lets get started by cloning this repository to your virtual machine or local machine and then open the lab document: Microsoft Power BI DIAD UK.docx and follow instructions.
+Lets get started by cloning this repository to your virtual machine or local machine and then open the lab document: **Microsoft Power BI DIAD UK.docx** and follow instructions.
 
 **Datasets used: /Data/FactData1/{all}.csv**
 
